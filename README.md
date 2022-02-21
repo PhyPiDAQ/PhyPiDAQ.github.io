@@ -1,17 +1,31 @@
-# PhyPiDAQ
-## Data AcQuisition for Physics Experiments with Raspberry Pi 
+<body style="background-color:white;">
+
+<img src="PhiPiDAQ_logo.png"
+     alt = "icon"
+     style="float: left; margin-right: 10px;" /> 
+
+&nbsp;  
+
+<h1>Data AcQuisition for Physics Experiments <br>
+  &nbsp;&nbsp; with Raspberry Pi </h1>
+
+&nbsp;  
+
+---
+
+&nbsp;  
 
 
-![1](phypidaq.png)
+![](phypidaq.png)
 
-**Acquisition, visualization and analysis of data for educational physics experiments**
+### Acquisition, visualization and analysis of data for educational physics experiments
 
-![2](phypidaq_1.png)
+![](phypidaq_1.png)
 
 
 ## Summary
 
-The PhyPiDAQ project aims to provide students access to state-of-the-art measurement 
+The *PhyPiDAQ* project aims to provide students access to state-of-the-art measurement 
 technology and data acquisition tools. As it is based on standardized protocols and hardware, 
 it can not only be cheaper to set up than similar offers, but also gives a great educational 
 introduction in methods of modern science. 
