@@ -1,29 +1,37 @@
 <body style="background-color:white;">
 
-<img src="PhiPiDAQ_logo.png"
-     alt = "icon"
-     style="float: left; margin-right: 10px;" /> 
+<p style="background-color:AliceBlue;">     &nbsp;         </p>
 
-&nbsp;  
+<img src="PhiPiDAQ_logo.png" width=150
+     style= "float: left; margin-right: 10px;" /> 
 
-<h1>Data AcQuisition for Physics Experiments <br>
-  &nbsp;&nbsp; with Raspberry Pi </h1>
+<h1 ALIGN="center"; style="background-color:GhostWhite"> 
+ Data Acquisition for Physics Experiments <br>
+     with Raspberry Pi 
+<br>&nbsp;
+</h1>
 
-&nbsp;  
+<br>
+<p style="background-color:AliceBlue;"> <hr>  </p>
 
----
+<div style="text-align:center">
+<img src="phypidaq.png" style= "float:none" /> 
+</div>
 
-&nbsp;  
+<h3 ALIGN="center"; style="background-color: AliceBlue;"> 
+&nbsp; <br>
+Acquisition, visualization and analysis of data 
+for educational physics experiments  
+<br> &nbsp;
+</h3>
+
+<div style="text-align:center">
+<img src="phypidaq_1.png"
+     style= "float:none; margin-left:10%; margin-right:0px;" /> 
+</div>
 
 
-![](phypidaq.png)
-
-### Acquisition, visualization and analysis of data for educational physics experiments
-
-![](phypidaq_1.png)
-
-
-## Summary
+## Project Executive Summary
 
 The *PhyPiDAQ* project aims to provide students access to state-of-the-art measurement 
 technology and data acquisition tools. As it is based on standardized protocols and hardware, 
