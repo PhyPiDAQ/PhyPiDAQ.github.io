@@ -43,6 +43,14 @@ This project targets students from middle school up to undergraduates at the uni
 with great matching educational concepts. Looking beyond school it is also a good base for STEM 
 based competitions or science fairs.
 
+The figure above shows on the left the measuring case with Raspberry Pi, the front 
+face of  the circuit board with 2&nbsp;mm connectors, the TFT display and the keyboard. 
+On the top right is shown the voltage over a capacitor driven by a sqare wave with irregular frequency, measured with an ADS 1115 analog-to-digital converter. 
+On the bottom right you see  the gamma-ray rate from Radon decay products measured 
+with a GDK 101 sensor. Note that the experiments can also be performed without the
+mearuring case by assembling the components on separat bread boards connected to
+the Rasprerry Pi. 
+
 Detailed descriptions of the software, hardware guides and build instructions or
 of educational concepts are available in the 
 [repositories of the *PhyPiDAQ* project](https://github.com/PhyPiDAQ).
@@ -68,9 +76,18 @@ und Experimente auch in freier Natur ermöglicht.
 Studierenden auf Universitätsebene. 
 Über die Schule hinaus ist es auch eine gute Basis für MINT-Wettbewerbe.
 
-Detaillierte Beschreibungen empfohlenen Hardware, der Software sowie Bauanleitungen 
+Die Abbildung oben zeigt links den Messkoffer mit Raspberry Pi, der Vorderseite der 
+Platine mit 2-mm-Steckern, TFT-Display und Tastatur. Rechts oben ist der Spannungsverlauf 
+an einem Kondensator bei Anlegen eines Rechtecksignals mit unregelmäßiger Frequenz 
+gezeigt, gemessen mit einem ADS 1115 Analog-Digital-Wandler. Rechts unten sieht man 
+die Gammastrahlungsrate von Radon-Zerfallsprodukten, gemessen mit einem GDK 101-Sensor. 
+Die einzelnen Experimente des PhyPiDAQ-Projekts können auch ohne den Koffer auf an den 
+Raspberry Pi angeschlossenen Breadbords aufgebaut werden. 
+
+Detaillierte Beschreibungen der empfohlenen Hardware, der Software sowie Bauanleitungen 
 und Beschreibungen von Experimenten mit PhyPiDAQ finden Sie in den 
 [Repositories des *PhyPiDAQ*-Projekts](https://github.com/PhyPiDAQ)
+
 
 #### Derzeit verfügbare Dokumentation
 
