@@ -1,3 +1,8 @@
+<!--
+This is the source for https://phypidaq.github.io/index.html,
+generated via   pandoc README.md -o index.html
+-->
+
 <body style="background-color:white;">
 
 <p style="background-color:AliceBlue;">     &nbsp;         </p>
@@ -45,7 +50,8 @@ based competitions or science fairs.
 
 The figure above shows on the left the measuring case with Raspberry Pi, the front 
 face of  the circuit board with 2&nbsp;mm connectors, the TFT display and the keyboard. 
-On the top right is shown the voltage over a capacitor driven by a sqare wave with irregular frequency, measured with an ADS 1115 analog-to-digital converter. 
+On the top right is shown the voltage over a capacitor driven by a sqare wave, measured 
+with an ADS 1115 analog-to-digital converter. 
 On the bottom right you see  the gamma-ray rate from Radon decay products measured 
 with a GDK 101 sensor. Note that the experiments can also be performed without the
 mearuring case by assembling the components on separat bread boards connected to
