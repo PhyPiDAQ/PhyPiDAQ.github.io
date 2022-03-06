@@ -64,7 +64,8 @@ of educational concepts are available in the
 
 #### Currently available Documentation
 
- - [Software Description](https://github.com/PhyPiDAQ/PhyPiDAQ/blob/main/Documentation_en.md)
+ - [Software Description](
+   https://github.com/PhyPiDAQ/PhyPiDAQ/blob/main/docs/Documentation_en.md)
  - [Educators Guide](https://github.com/PhyPiDAQ/EducatorsGuide/blob/main/EducatorsGuide.md)
  - [Hardware build instructions](https://github.com/PhyPiDAQ/MeasuringCase/blob/main/Documentation_en.md)
 
@@ -100,7 +101,7 @@ und Beschreibungen von Experimenten mit PhyPiDAQ finden Sie in den
  - [Anleitung für Lehrkräfte](https://github.com/PhyPiDAQ/EducatorsGuide/blob/main/Anleitung.md)
  - [Einführungskurs für Schülerinnen und Schüler](
      https://github.com/PhyPiDAQ/EducatorsGuide/blob/main/docs/Kurs_digitale_Messwerterfassung_mit_PhyPiDAQ.md)
- - [Beschreibung der Software](https://github.com/PhyPiDAQ/PhyPiDAQ/blob/main/Dokumentation_de.md)
+ - [Beschreibung der Software](https://github.com/PhyPiDAQ/PhyPiDAQ/blob/main/docs/Dokumentation_de.md)
  - [Bauanleitung Messkoffer](https://github.com/PhyPiDAQ/MeasuringCase/blob/main/Dokumentation_de.md)
 
 
