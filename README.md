@@ -59,7 +59,9 @@ the Rasprerry Pi.
 
 Detailed descriptions of the software, hardware guides and build instructions or
 of educational concepts are available in the 
-[repositories of the *PhyPiDAQ* project](https://github.com/PhyPiDAQ).
+[repositories of the *PhyPiDAQ* project](https://github.com/PhyPiDAQ). 
+The older version Raspbian "stretch" of the Raspberry Pi operating system ist
+supported by the [legacy version](https://github.com/GuenterQuast/PhyPiDAQ).
 
 
 #### Currently available Documentation
@@ -93,7 +95,9 @@ Raspberry Pi angeschlossenen Breadbords aufgebaut werden.
 
 Detaillierte Beschreibungen der empfohlenen Hardware, der Software sowie Bauanleitungen 
 und Beschreibungen von Experimenten mit PhyPiDAQ finden Sie in den 
-[Repositories des *PhyPiDAQ*-Projekts](https://github.com/PhyPiDAQ)
+[Repositories des *PhyPiDAQ*-Projekts](https://github.com/PhyPiDAQ). 
+Die ältere Version Raspbian "stretch" des Raspberry Pi Betriebssystems wird von 
+der [PhiPyDAQ legacy version](https://github.com/GuenterQuast/PhyPiDAQ) unterstützt.
 
 
 #### Derzeit verfügbare Dokumentation
