@@ -63,6 +63,11 @@ of educational concepts are available in the
 The older version Raspbian "stretch" of the Raspberry Pi operating system ist
 supported by the [legacy version](https://github.com/GuenterQuast/PhyPiDAQ).
 
+#### Installation
+
+The necessary steps to install PhyPiDAQ on a Raspberry Pi are documented in this 
+[shell script](install_phypidaq.sh). See full documentation for details.
+
 
 #### Currently available Documentation
 
@@ -70,6 +75,7 @@ supported by the [legacy version](https://github.com/GuenterQuast/PhyPiDAQ).
    https://github.com/PhyPiDAQ/PhyPiDAQ/blob/main/docs/Documentation_en.md)
  - [Educators Guide](https://github.com/PhyPiDAQ/EducatorsGuide/blob/main/EducatorsGuide.md)
  - [Hardware build instructions](https://github.com/PhyPiDAQ/MeasuringCase/blob/main/Documentation_en.md)
+
 
 
 ## Übersicht in deutscher Sprache
@@ -99,6 +105,11 @@ und Beschreibungen von Experimenten mit PhyPiDAQ finden Sie in den
 Die ältere Version Raspbian "stretch" des Raspberry Pi Betriebssystems wird von 
 der [PhiPyDAQ legacy version](https://github.com/GuenterQuast/PhyPiDAQ) unterstützt.
 
+#### Installation
+
+Die zur Installation von PhyPiDAQ auf einem Raspberry Pi notwendigen Schritte
+befinden sich in diesem [Shell Script](install_phypidaq.sh). Weitere Details 
+sind in der vollen Dokumentation zu finden. 
 
 #### Derzeit verfügbare Dokumentation
 
