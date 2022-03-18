@@ -3,7 +3,7 @@
 # script to 
 #  - clone PhyPiDAQ from gihub to git/PhyPiDAQ/
 #  - install it on a fresh system
-#  - copy configurattions to user directory ~/PhyPi 
+#  - copy configurations to user directory ~/PhyPi 
 #
 # ---------------------------------------------------
 
@@ -22,6 +22,6 @@ echo "setting up PhyPiDAQ on your system"
 ./installlibs.sh
 
 # copy to user directory PhyPiDAQ
-echo "copying to user directory PhyPi"
+echo "copying to user directory ~/PhyPi"
 ./install_user.sh PhyPi
 
