@@ -54,7 +54,7 @@ On the top right is shown the voltage over a capacitor driven by a sqare wave, m
 with an ADS 1115 analog-to-digital converter. 
 On the bottom right you see  the gamma-ray rate from Radon decay products measured 
 with a GDK 101 sensor. Note that the experiments can also be performed without the
-mearuring case by assembling the components on separat bread boards connected to
+mearuring case by assembling the components on separate bread boards connected to
 the Rasprerry Pi. 
 
 Detailed descriptions of the software, hardware guides and build instructions or
